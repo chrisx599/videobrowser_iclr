@@ -1,6 +1,6 @@
 # Video-Browser — Supplementary Code
 
-This bundle accompanies the paper *Video-Browser / Video-BrowseComp* (NeurIPS 2026 submission). It contains the source code and data needed to inspect (and, with appropriate model endpoints, reproduce) the main offline-track method reported in the paper.
+This bundle accompanies the paper *Video-Browser / Video-BrowseComp* (ICLR 2027 submission). It contains the source code and data needed to inspect (and, with appropriate model endpoints, reproduce) the main offline-track method reported in the paper.
 
 
 ## Layout
